@@ -39,6 +39,6 @@ Windows 작업표시줄에 **Claude Code** 와 **Codex** 의 사용량을 보여
 
 - Windows 10 또는 11
 - Claude 사용량을 보려면 Claude Code 에 로그인돼 있어야 합니다
-- Codex 사용량을 보려면 Codex CLI 가 설치돼 있고 로그인돼 있어야 합니다
+- Codex 사용량을 보려면 Codex 에 로그인돼 있어야 합니다 (Codex 프로그램이든 CLI 든 상관없습니다)
 
 둘 중 하나만 있어도 괜찮습니다. 트레이 메뉴에서 쓰지 않는 쪽을 끄면 됩니다.
