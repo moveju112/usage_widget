@@ -2,10 +2,9 @@
 
 Windows 작업표시줄에 **Claude Code** 와 **Codex** 의 사용량을 보여주는 작은 위젯입니다.
 
-```
- ✳  H 22%  ▬▬        W 58%  ▬▬▬▬▬
- >_                  W 65%  ▬▬▬▬▬▬
-```
+<img width="158" height="50" alt="image" src="https://github.com/user-attachments/assets/1869fe57-625e-45c9-95d2-7226283649a9" />
+<img width="234" height="48" alt="image" src="https://github.com/user-attachments/assets/abcfd964-c08b-49db-abc7-d259308a880a" />
+
 
 시계 왼쪽, 작업표시줄 안에 붙어 있습니다. `H` 는 5시간 한도, `W` 는 주간 한도입니다.
 50% 미만은 초록, 75% 미만은 노랑, 90% 이상은 빨강으로 표시됩니다.
